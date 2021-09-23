@@ -158,6 +158,8 @@ GEM
     sqlite3 (1.4.2)
     stimulus-rails (0.5.4)
       rails (>= 6.0.0)
+    tailwindcss-rails (0.4.3)
+      rails (>= 6.0.0)
     thor (1.1.0)
     turbo-rails (0.7.14)
       rails (>= 6.0.0)
@@ -193,6 +195,7 @@ DEPENDENCIES
   selenium-webdriver
   sqlite3 (~> 1.4)
   stimulus-rails (>= 0.4.0)
+  tailwindcss-rails (~> 0.4.3)
   turbo-rails (>= 0.7.11)
   tzinfo-data
   web-console (>= 4.1.0)
